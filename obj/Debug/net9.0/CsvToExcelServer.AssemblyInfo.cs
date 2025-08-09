@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsvToExcelServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72032bc68c711a84384d7433103e618201ee2953")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsvToExcelServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsvToExcelServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
