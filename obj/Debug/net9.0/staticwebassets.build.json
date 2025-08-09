@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XvmDd54xRg39PeRciVBnigc3RSGAW6nZ4OeHk2mx2Eg=",
+  "Source": "CsvToExcelServer",
+  "BasePath": "_content/CsvToExcelServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
